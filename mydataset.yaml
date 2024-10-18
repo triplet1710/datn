@@ -1,0 +1,4 @@
+train: "C:/Users/PC/Desktop/datn/data/train/images"
+val: "C:/Users/PC/Desktop/datn/data/test/images"
+nc: 1
+names: ['shrimp']
